@@ -1,0 +1,3 @@
+rootProject.name='plugin-feature-auth'
+include ':app'
+include ':support-feature-auth'
